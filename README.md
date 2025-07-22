@@ -1,42 +1,42 @@
 <h1 align="center">🎮 Olixty - Game Developer in the Making 🎮</h1>
 
 <p align="center">
-  🌌 Especializado en diseño de <strong>paisajes y entornos</strong> usando Unreal Engine 5 & Blender.<br>
-  👣 Dando mis primeros pasos como desarrollador de videojuegos con ideas únicas, ambientes inmersivos y apoyo de Inteligencia Artificial.
+  🌌 Specializing in <strong>landscape and environment design</strong> using Unreal Engine 5 & Blender.<br>
+  👣 Taking my first steps as a game developer with unique ideas, immersive worlds, and AI-assisted design.
 </p>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-- 🧱 Me especializo en **diseño de mapas y paisajes** realistas e inmersivos.
-- 🔥 Actualmente desarrollando un **juego de terror** en primera persona con IA.
-- 🧬 Explorando **NPCs con redes neuronales** y **algoritmos genéticos** para IA avanzada.
-- 🛡️ Planeando un **videojuego de rol innovador** como proyecto a largo plazo.
-- 🛠️ Herramientas principales: `Unreal Engine 5`, `Blender`, `Blueprints`, `IA`.
+- 🧱 Focused on building **realistic, immersive environments** and level design.
+- 🔥 Currently developing a **first-person horror game** with AI-enhanced design.
+- 🧬 Exploring **NPC systems using neural networks** and **genetic algorithms**.
+- 🛡️ Planning a **large-scale, innovative RPG** as a long-term project.
+- 🛠️ Core tools: `Unreal Engine 5`, `Blender`, `Blueprints`, `AI`.
 
-📫 **Contacto:** olairodmar@gmail.com  
-🎥 Canal de YouTube e Instagram en camino...
+📫 **Contact me:** olairodmar@gmail.com  
+🎥 YouTube and Instagram coming soon...
 
 ---
 
-### 🧪 Proyectos en desarrollo
+### 🧪 Projects in Progress
 
-| Proyecto | Descripción | Estado |
+| Project | Description | Status |
 |---------|-------------|--------|
-| 🕯️ **Juego de Terror** | Terror psicológico con cámara en primera persona, entornos realistas y narrativa profunda. | 🧱 En desarrollo |
-| 🤖 **IA para NPCs** | NPCs que aprenden y evolucionan con redes neuronales + algoritmos genéticos. | 🧪 En prototipo |
-| 🗺️ **RPG Innovador** | Aventura narrativa con diseño de mundo complejo y mecánicas nuevas. | 📘 En planeación |
+| 🕯️ **Horror Game** | Psychological horror in first-person with deep narrative and atmospheric design. | 🧱 In development |
+| 🤖 **AI NPC System** | Smart NPCs powered by neural networks and evolutionary learning. | 🧪 Prototype |
+| 🗺️ **Innovative RPG** | A narrative-rich open world with original mechanics and systems. | 📘 Planning stage |
 
 ---
 
-### ✨ Objetivo
+### ✨ My Mission
 
-Construir experiencias inmersivas desde los paisajes y atmósferas, dejando huella en el mundo del desarrollo indie.
+To craft immersive gameplay experiences by designing emotional, atmospheric worlds from the ground up — one environment at a time.
 
 ---
 
-### 🧰 Tecnologías y herramientas
+### 🧰 Technologies & Tools
 
 ![UE5](https://img.shields.io/badge/-Unreal%20Engine%205-000?style=flat&logo=unrealengine)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
@@ -46,11 +46,11 @@ Construir experiencias inmersivas desde los paisajes y atmósferas, dejando huel
 
 ---
 
-### 📅 Próximamente
+### 📅 Coming Soon
 
-- 🎥 Canal de YouTube con desarrollo en tiempo real, breakdowns y paisajes.
-- 📸 Instagram con arte, escenas y entornos creados en UE5/Blender.
-- 🚀 Demos jugables en Itch.io
+- 🎥 A YouTube channel with devlogs, environment breakdowns and gameplay tests.
+- 📸 Instagram featuring UE5/Blender artwork and map designs.
+- 🚀 Playable demos on Itch.io
 
 ---
 
